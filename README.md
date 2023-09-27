@@ -21,6 +21,8 @@ React, Node and Python and I'm located in Spain (European Union).
 10+ years in software development professionally.*
 
 ## Getting started
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkantord%2FSeaGOAT.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkantord%2FSeaGOAT?ref=badge_shield)
+
 
 ### Install SeaGOAT
 
@@ -258,3 +260,7 @@ primarily designed to run locally. If you have private code that you do not
 wish to leak, you will have to make sure that only trusted people have
 access to the SeaGOAT server. This could be done by making it only available
 through a VPN that only your teammates can access.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkantord%2FSeaGOAT.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkantord%2FSeaGOAT?ref=badge_large)
